@@ -1,0 +1,16 @@
+{
+  "name": "mtg-proxy-generator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+  	"byline": "*",
+  	"pdfkit": "*",
+  	"gm":"*"
+  },
+  "license": "BSD"
+}
